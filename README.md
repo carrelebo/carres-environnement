@@ -1,8 +1,8 @@
 # carres-environnement
-Math - Compsi - Physic work and developpement environnement 
+Math - Compsi - Physic work and developpement environnement, all lib only using operating system lib, as os and sys in python.
 
 # In developpement :
-- carremath (py) : an math python lib make from scratch and math formulas
+- carremath (py) : a math python lib write only from scratch and math formulas
 #Done features :
 none
 
